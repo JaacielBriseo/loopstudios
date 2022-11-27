@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-vitereact-and-tailwind-css--fZ_BLG7pX]
+- Live Site URL: [https://loopstudios-dun.vercel.app/]
 
 ### Built with
 
